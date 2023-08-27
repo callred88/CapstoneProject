@@ -1,0 +1,211 @@
+,Coaster_ID,Name,material_type,seating_type,speed,height,length,num_inversions,manufacturer,Park,status,Park_ID,City,State,Country,Zip_Code
+0,1,Afterburn,Steel,Inverted,100.0,34.0,900.0,6.0,B&M,Carowinds,status.operating,9,Charlotte,North Carolina,United States,28273
+1,2,Alpengeist,Steel,Inverted,108.0,60.0,,6.0,B&M,Busch Gardens Williamsburg,status.operating,6,Williamsburg,Virginia,United States,23185
+2,3,American Thunder,Wooden,Sit Down,77.0,25.0,827.0,0.0,GCI,Six Flags St. Louis,status.operating,14,Eureka,Missouri,United States,63025
+3,4,Apocalypse,Wooden,Sit Down,89.0,31.0,869.0,0.0,GCI,Six Flags Magic Mountain,status.closed.temporarily,22,Valencia,California,United States,91355
+4,5,Apollo's Chariot,Steel,Sit Down,118.0,52.0,1488.0,0.0,B&M,Busch Gardens Williamsburg,status.operating,6,Williamsburg,Virginia,United States,23185
+5,7,Avalanche,Wooden,Sit Down,,27.0,725.0,0.0,S&S,Timber Falls,status.closed.definitely,19,Wisconsin Dells,Wisconsin,United States,53965
+6,8,Balder,Wooden,Sit Down,90.0,36.0,1070.0,0.0,Intamin,Liseberg,status.operating,8,Gothenburg,Västra Götalands,Sweden,402 22
+7,9,Banshee,Steel,Inverted,110.0,51.0,1260.0,7.0,B&M,Kings Island,status.operating,2,Mason,Ohio,United States,45040
+8,10,Beast,Wooden,Sit Down,104.0,34.0,2243.0,0.0,Charlie Dinn,Kings Island,status.operating,2,Mason,Ohio,United States,45040
+9,11,Behemoth,Steel,Sit Down,124.0,70.0,1621.0,0.0,B&M,Canada's Wonderland,status.operating,15,Vaughan,Ontario,Canada,L6A 1S6
+10,12,Big Dipper,Wooden,Sit Down,,18.0,1006.0,0.0,William Strickler,Blackpool Pleasure Beach,status.operating,34,Blackpool,England,United Kingdom,FY4 1EZ
+11,13,Big Dipper,Steel,Sit Down,,5.0,,0.0,Chance Rides,Michigan's Adventure,status.operating,31,Muskegon,Michigan,United States,49445
+12,16,Bizarro,Steel,Floorless,98.0,43.0,1214.0,7.0,B&M,Six Flags Great Adventure,status.operating,4,Jackson,New Jersey,United States,08527
+13,17,Bizarro,Steel,Sit Down,124.0,63.0,1646.0,0.0,Intamin,Six Flags New England,status.operating,13,Agawam,Massachusetts,United States,01001
+14,18,Black Mamba,Steel,Inverted,80.0,26.0,,4.0,B&M,Phantasialand,status.operating,29,Brühl,North Rhine-Westphalia,Germany,50321
+15,19,Blue Fire,Steel,Sit Down,100.0,38.0,1056.0,4.0,Mack,Europa-Park,status.operating,17,Rust,Baden-Württemberg,Germany,77977
+16,20,Blue Fire Megacoaster,Steel,Sit Down,100.0,38.0,1056.0,4.0,Mack,Europa-Park,status.operating,17,Rust,Baden-Württemberg,Germany,77977
+17,21,Blue Streak,Wooden,na,,,883.0,0.0,na,Conneaut Lake Park,status.operating,59,Conneaut Lake,Pennsylvania,United States,16316
+18,22,Blue Streak,Wooden,Sit Down,64.0,24.0,780.0,0.0,Philadelphia Toboggan Coaster,Cedar Point,status.operating,1,Sandusky,Ohio,United States,44870
+19,23,Boardwalk Bullet,Wooden,Sit Down,82.0,29.0,986.0,0.0,Gravity Group,Kemah Boardwalk,status.operating,44,Kemah,Texas,United States,77565
+20,24,Boss,Wooden,Sit Down,106.0,46.0,1540.0,0.0,CCI,Six Flags St. Louis,status.operating,14,Eureka,Missouri,United States,63025
+21,25,Boulder Dash,Wooden,Sit Down,97.0,35.0,1440.0,0.0,CCI,Lake Compounce,status.operating,26,Bristol,Connecticut,United States,06010
+22,26,Candymonium,Steel,Sit Down,122.0,64.0,1413.0,0.0,B&M,Hersheypark,status.operating,24,Hershey,Pennsylvania,United States,17033
+23,27,Cannibal,Steel,Sit Down,113.0,64.0,835.0,4.0,ART Engineering,Lagoon,status.operating,50,Farmington,Utah,United States,84025
+24,28,Coaster,Wooden,Sit Down,75.0,20.0,865.0,0.0,na,PNE Playland,status.operating,67,Vancouver,British Columbia,Canada,V5K 5J1
+25,29,Colossos,Wooden,Sit Down,110.0,51.0,1500.0,0.0,Intamin,Heide Park,status.operating,42,Soltau,Lower Saxony,Germany,29614
+26,30,Comet,Wooden,Sit Down,40.0,11.0,396.0,0.0,Philadelphia Toboggan Coaster,Waldameer,status.operating,27,Erie,Pennsylvania,United States,16505
+27,34,Comet,Steel,Sit Down,81.0,26.0,1024.0,0.0,Philadelphia Toboggan Coaster,Hersheypark,status.operating,24,Hershey,Pennsylvania,United States,17033
+28,35,Comet,Wooden,Sit Down,89.0,29.0,1279.0,0.0,Philadelphia Toboggan Coaster,Six Flags Great Escape,status.operating,37,Queensbury,New York,United States,12804
+29,37,Cornball Express,Wooden,Sit Down,72.0,17.0,640.0,0.0,CCI,Indiana Beach,status.operating,21,Monticello,Indiana,United States,47960
+30,38,Cyclone,Wooden,Sit Down,,25.0,855.0,0.0,na,Lakeside Park,status.operating,76,Denver,Colorado,United States,80212
+31,40,Cyclone,Wooden,Sit Down,97.0,26.0,869.0,0.0,na,Coney Island,status.operating,63,Brooklyn,New York,United States,11224
+32,46,Cyclone,Wooden,Sit Down,72.0,32.0,1100.0,0.0,William J. Cobb,Six Flags New England,status.retracked,13,Agawam,Massachusetts,United States,01001
+33,48,Cyclone,Steel,Sit Down,,,,0.0,Pinfari,Blackpool Pleasure Beach,status.closed.definitely,34,Blackpool,England,United Kingdom,FY4 1EZ
+34,49,Cú Chulainn,Wooden,Sit Down,90.0,32.0,1094.0,0.0,Gravity Group,Tayto Park,status.operating,40,Ashbourne,Meath,Ireland,A84 EA02
+35,50,Dania Beach Hurricane,Steel,Sit Down,81.0,31.0,975.0,0.0,Coaster Works,Boomers!,status.operating,75,Boca Raton,Florida,United States,33431
+36,51,Diamondback,Steel,Sit Down,129.0,70.0,1610.0,0.0,B&M,Kings Island,status.operating,2,Mason,Ohio,United States,45040
+37,52,Dominator,Steel,Floorless,105.0,48.0,1283.0,5.0,B&M,Kings Dominion,status.operating,20,Doswell,Virginia,United States,23047
+38,54,Dragon Challenge,Steel,Inverted,97.0,38.0,975.0,5.0,B&M,Universal's Islands of Adventure,status.closed.definitely,79,Orlando,Florida,United States,32819
+39,56,El Toro,Wooden,Sit Down,113.0,55.0,1341.0,0.0,Intamin,Six Flags Great Adventure,status.operating,4,Jackson,New Jersey,United States,08527
+40,57,El Toro,Wooden,Sit Down,75.0,28.0,750.0,0.0,GCI,Freizeitpark Plohn,status.operating,64,Reichenbach/Vogtland,Saxony,Germany,08485
+41,58,Euro-Mir,Steel,Spinning,80.0,28.0,980.0,0.0,Mack,Europa-Park,status.operating,17,Rust,Baden-Württemberg,Germany,77977
+42,59,Expedition Everest,Steel,Sit Down,80.0,34.0,1341.0,0.0,Vekoma,Disney's Animal Kingdom,status.operating,53,Lake Buena Vista,Florida,United States,32830
+43,60,Expedition GeForce,Steel,Sit Down,120.0,53.0,1220.0,0.0,Intamin,Holiday Park,status.operating,28,Hassloch,Rhineland-Palatinate,Germany,67454
+44,61,Flying Turns,Wooden,Bobsleigh,39.0,15.0,396.0,0.0,Knoebels,Knoebels Amusement Resort,status.operating,5,Elysburg,Pennsylvania,United States,17824
+45,62,Full Throttle,Steel,Sit Down,112.0,48.0,670.0,2.0,Premier Rides,Six Flags Magic Mountain,status.operating,22,Valencia,California,United States,91355
+46,63,Fury 325,Steel,Sit Down,153.0,99.0,2012.0,0.0,B&M,Carowinds,status.operating,9,Charlotte,North Carolina,United States,28273
+47,64,Galactica,Steel,Flying,75.0,20.0,840.0,3.0,B&M,Alton Towers,status.operating,32,Stoke-on-Trent,England,United Kingdom,ST10 4DB
+48,65,GateKeeper,Steel,Wing,108.0,52.0,1269.0,6.0,B&M,Cedar Point,status.operating,1,Sandusky,Ohio,United States,44870
+49,66,Georgia Cyclone,Wooden,Sit Down,81.0,29.0,905.0,0.0,Dinn Corp.,Six Flags Over Georgia,status.retracked,16,Austell,Georgia,United States,30168
+50,67,GhostRider,Wooden,Sit Down,90.0,36.0,1382.0,0.0,GCI,Knott's Berry Farm,status.operating,47,Buena Park,California,United States,90620
+51,68,Giant Dipper,Wooden,Sit Down,89.0,22.0,793.0,0.0,na,Belmont Park,status.operating,77,San Diego,California,United States,92109
+52,69,Giant Dipper,Steel,Sit Down,89.0,21.0,805.0,0.0,na,Santa Cruz Beach Boardwalk,status.operating,36,Santa Cruz,California,United States,95060
+53,70,Gold Striker,Wooden,Sit Down,87.0,33.0,975.0,0.0,GCI,California's Great America,status.operating,33,Santa Clara,California,United States,95054
+54,71,Goliath,Wooden,Sit Down,115.0,55.0,950.0,2.0,RMC,Six Flags Great America,status.operating,11,Gurnee,Illinois,United States,60031
+55,72,Goliath,Steel,Sit Down,137.0,71.0,1370.0,0.0,Giovanola,Six Flags Magic Mountain,status.operating,22,Valencia,California,United States,91355
+56,73,Goliath,Steel,Sit Down,106.0,58.0,367.0,3.0,Vekoma,Six Flags New England,status.operating,13,Agawam,Massachusetts,United States,01001
+57,74,Goliath,Steel,Sit Down,106.0,47.0,1214.0,0.0,Intamin,Walabi Holland,status.operating,89,Biddinghuizen,Flevoland,Netherlands,8256
+58,75,Goliath,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,Six Flags Over Georgia,status.operating,16,Austell,Georgia,United States,30168
+59,76,Goliath,Steel,Sit Down,110.0,53.0,1231.0,0.0,B&M,La Ronde,status.operating,52,Montreal,Quebec,Canada,H3C6A3
+60,77,Goliath,Steel,Inverted,80.0,32.0,823.0,5.0,B&M,Six Flags Fiesta Texas,status.operating,51,San Antonio,Texas,United States,78257
+61,78,Grand National,Steel,Sit Down,64.0,19.0,1006.0,0.0,Charles Paige,Blackpool Pleasure Beach,status.operating,34,Blackpool,England,United Kingdom,FY4 1EZ
+62,79,Great American Scream Machine,Steel,Sit Down,109.0,53.0,1158.0,7.0,Arrow,Six Flags Great Adventure,status.closed.definitely,4,Jackson,New Jersey,United States,08527
+63,80,Great American Scream Machine,Wooden,Sit Down,92.0,32.0,1052.0,0.0,Philadelphia Toboggan Coaster,Six Flags Over Georgia,status.operating,16,Austell,Georgia,United States,30168
+64,81,Griffon,Steel,Floorless,120.0,62.0,950.0,2.0,B&M,Busch Gardens Williamsburg,status.operating,6,Williamsburg,Virginia,United States,23185
+65,82,Grizzly,Steel,Sit Down,89.0,28.0,991.0,0.0,Kings Island,California's Great America,status.operating,33,Santa Clara,California,United States,95054
+66,83,Grizzly,Wooden,Sit Down,,27.0,960.0,0.0,na,Kings Dominion,status.operating,20,Doswell,Virginia,United States,23047
+67,84,Gwazi,Wooden,Sit Down,81.0,27.0,1036.0,0.0,GCI,Busch Gardens Tampa,status.retracked,12,Tampa,Florida,United States,33612
+68,85,Hades 360,Hybrid,Sit Down,113.0,42.0,1441.0,0.0,Gravity Group,Mt. Olympus Theme Park,status.operating,54,Wisconsin Dells,Wisconsin,United States,53965
+69,86,Hagrid’s Magical Creatures Motorbike Adventure,Steel,Sit Down,80.0,,,0.0,Intamin,Universal's Islands of Adventure,status.operating,79,Orlando,Florida,United States,32819
+70,87,Helix,Steel,Sit Down,100.0,41.0,1381.0,7.0,Mack,Liseberg,status.operating,8,Gothenburg,Västra Götalands,Sweden,402 22
+71,88,Incredible Hulk,Steel,Sit Down,107.0,33.0,1127.0,7.0,B&M,Universal's Islands of Adventure,status.operating,79,Orlando,Florida,United States,32819
+72,89,Incredicoaster,Steel,Sit Down,88.0,33.0,1850.0,1.0,Intamin,Disney California Adventure Park,status.operating,86,Anaheim,California,United States,92802
+73,90,Intimidator,Steel,Sit Down,120.0,71.0,1620.0,0.0,B&M,Carowinds,status.operating,9,Charlotte,North Carolina,United States,28273
+74,91,Intimidator 305,Steel,Sit Down,145.0,93.0,1555.0,0.0,Intamin,Kings Dominion,status.operating,20,Doswell,Virginia,United States,23047
+75,92,InvadR,Hybrid,Sit Down,77.0,23.0,,0.0,GCI,Busch Gardens Williamsburg,status.operating,6,Williamsburg,Virginia,United States,23185
+76,93,Iron Gwazi,Hybrid,Sit Down,76.0,65.0,1242.0,0.0,RMC,Busch Gardens Tampa,status.construction,12,Tampa,Florida,United States,33612
+77,94,Iron Rattler,Hybrid,Sit Down,113.0,55.0,996.0,1.0,RMC,Six Flags Fiesta Texas,status.operating,51,San Antonio,Texas,United States,78257
+78,95,Jack Rabbit,Steel,Sit Down,72.0,21.0,650.0,0.0,ACE Coaster Classic,Kennywood,status.operating,7,West Mifflin,Pennsylvania,United States,15122
+79,98,Jetline,Steel,Sit Down,90.0,32.0,800.0,0.0,Schwarzkopf,Gröna Lund,status.operating,49,Stockholm,Stockholms,Sweden,115 21
+80,99,Joris en de Draak,Wooden,Sit Down,75.0,22.0,788.0,0.0,GCI,Efteling,status.operating,39,Kaatsheuvel,North Brabant,Netherlands,5171
+81,100,Jurassic World VelociCoaster,Steel,Sit Down,70.0,47.24,1432.56,4.0,Intamin,Universal's Islands of Adventure,status.operating,79,Orlando,Florida,United States,32819
+82,101,Katun,Steel,Inverted,104.0,50.0,1200.0,6.0,B&M,Mirabilandia,status.operating,91,Savio,Emilia-Romagna,Italy,48125
+83,102,Kentucky Rumbler,Wooden,Sit Down,77.0,27.0,862.0,0.0,GCI,Beech Bend,status.operating,57,Bowling Green,Kentucky,United States,42101
+84,103,Kingda Ka,Steel,Sit Down,206.0,139.0,950.0,0.0,Intamin,Six Flags Great Adventure,status.operating,4,Jackson,New Jersey,United States,08527
+85,104,Kraken,Steel,Floorless,105.0,46.0,1273.0,7.0,B&M,SeaWorld Orlando,status.operating,45,Orlando,Florida,United States,32821
+86,105,Kumba,Steel,Sit Down,96.0,43.0,1210.0,7.0,B&M,Busch Gardens Tampa,status.operating,12,Tampa,Florida,United States,33612
+87,108,Legend,Wooden,Sit Down,93.0,35.0,1232.0,0.0,CCI,Holiday World,status.operating,3,Santa Claus,Indiana,United States,47579
+88,109,Leviathan,Steel,Sit Down,148.0,93.0,1672.0,0.0,B&M,Canada's Wonderland,status.operating,15,Vaughan,Ontario,Canada,L6A 1S6
+89,110,Lightning Racer,Wooden,Sit Down,82.0,27.0,1036.0,0.0,GCI,Hersheypark,status.operating,24,Hershey,Pennsylvania,United States,17033
+90,111,Lightning Rod,Wooden,Sit Down,118.0,50.0,1158.0,0.0,RMC,Dollywood,status.operating,10,Pigeon Forge,Tennessee,United States,37863
+91,112,Lightning Run,Steel,Sit Down,90.0,31.0,765.0,0.0,Chance Rides,Kentucky Kingdom,status.operating,30,Louisville,Kentucky,United States,40209
+92,113,Lisebergbanan,Steel,Sit Down,80.0,45.0,1548.0,0.0,Schwarzkopf,Liseberg,status.operating,8,Gothenburg,Västra Götalands,Sweden,402 22
+93,114,Magnum XL-200,Steel,Sit Down,116.0,63.0,1556.0,0.0,Arrow,Cedar Point,status.operating,1,Sandusky,Ohio,United States,44870
+94,115,Mako,Steel,Sit Down,115.0,61.0,1450.0,0.0,B&M,SeaWorld Orlando,status.operating,45,Orlando,Florida,United States,32821
+95,117,Mamba,Steel,Sit Down,120.0,63.0,1700.0,0.0,Morgan,Worlds of Fun,status.operating,48,Kansas City,Missouri,United States,64161
+96,118,Manta,Steel,Flying,97.0,43.0,1024.0,4.0,B&M,SeaWorld Orlando,status.operating,45,Orlando,Florida,United States,32821
+97,120,Maverick,Steel,Sit Down,113.0,32.0,1356.0,2.0,Intamin,Cedar Point,status.operating,1,Sandusky,Ohio,United States,44870
+98,121,Mean Streak,Wooden,Sit Down,100.0,49.0,1654.0,0.0,Dinn Corp.,Cedar Point,status.retracked,1,Sandusky,Ohio,United States,44870
+99,122,Medusa Steel Coaster,Hybrid,Sit Down,93.0,36.0,910.0,3.0,RMC,Six Flags Mexico,status.operating,56,Mexico City,Distrito Federal,Mexico,14200
+100,123,Megafobia,Wooden,Sit Down,77.0,26.0,901.0,0.0,CCI,Oakwood Leisure Park,status.operating,65,Pembroke,Wales,United Kingdom,SA67 8DE
+101,124,Millennium Force,Steel,Sit Down,150.0,94.0,2010.0,0.0,Intamin,Cedar Point,status.operating,1,Sandusky,Ohio,United States,44870
+102,125,Mind Bender,Steel,Sit Down,81.0,25.0,992.0,2.0,Schwarzkopf,Six Flags Over Georgia,status.operating,16,Austell,Georgia,United States,30168
+103,126,Mindbender,Steel,Sit Down,97.0,44.0,1280.0,3.0,Schwarzkopf,Galaxyland,status.operating,90,Edmonton,Alberta,Canada,T5T 4J2
+104,127,Mindbender,Steel,Sit Down,97.0,44.0,1280.0,3.0,Schwarzkopf,Six Flags Over Georgia,status.operating,16,Austell,Georgia,United States,30168
+105,128,Mine Blower,Wooden,Sit Down,78.0,25.0,698.0,1.0,Gravity Group,Fun Spot America,status.operating,55,Orlando,Florida,United States,32819
+106,129,Montu,Steel,Inverted,96.0,46.0,1214.0,7.0,B&M,Busch Gardens Tampa,status.operating,12,Tampa,Florida,United States,33612
+107,130,Mystic Timbers,Wooden,Sit Down,85.0,33.0,995.0,0.0,GCI,Kings Island,status.operating,2,Mason,Ohio,United States,45040
+108,131,Nemesis,Steel,Inverted,81.0,13.0,716.0,4.0,B&M,Alton Towers,status.operating,32,Stoke-on-Trent,England,United Kingdom,ST10 4DB
+109,132,New Texas Giant,Hybrid,Sit Down,105.0,47.0,1280.0,0.0,RMC,Six Flags Over Texas,status.operating,25,Arlington,Texas,United States,76011
+110,135,Nitro,Steel,Sit Down,128.0,70.0,1644.0,0.0,B&M,Six Flags Great Adventure,status.operating,4,Jackson,New Jersey,United States,08527
+111,136,Olympia Looping,Steel,Sit Down,80.0,38.0,1250.0,5.0,Schwarzkopf,Weiner Prater,status.operating,73,Vienna,Vienna,Austria,1020
+112,137,Outlaw Run,Wooden,Sit Down,110.0,50.0,,2.0,RMC,Silver Dollar City,status.operating,23,Branson,Missouri,United States,65616
+113,138,Orion,Steel,Sit Down,91.0,87.4,1621.0,0.0,B&M,Kings Island,status.operating,2,Mason,Ohio,United States,45040
+114,139,Pantheon,Steel,Sit Down,117.0,54.0,,2.0,Intamin,Busch Gardens Williamsburg,status.operating,6,Williamsburg,Virginia,United States,23185
+115,140,Phantom's Revenge,Steel,Sit Down,132.0,70.0,975.0,0.0,Arrow,Kennywood,status.operating,7,West Mifflin,Pennsylvania,United States,15122
+116,141,Phoenix,Wooden,Sit Down,72.0,24.0,975.0,0.0,Philadelphia Toboggan Coaster,Knoebels Amusement Resort,status.operating,5,Elysburg,Pennsylvania,United States,17824
+117,143,Piraten,Steel,Sit Down,90.0,32.0,755.0,0.0,Intamin,Djurs Sommerland,status.operating,85,Djursland,Central Denmark,Denmark,8581
+118,144,Playland Wooden Coaster,Wooden,Sit Down,75.0,20.0,865.0,0.0,na,PNE Playland,status.operating,67,Vancouver,British Columbia,Canada,V5K 5J1
+119,145,PowderKeg,Steel,Sit Down,100.0,30.0,1068.0,0.0,S&S,Silver Dollar City,status.operating,23,Branson,Missouri,United States,65616
+120,146,Prowler,Wooden,Sit Down,82.0,31.0,937.0,0.0,GCI,Worlds of Fun,status.operating,48,Kansas City,Missouri,United States,64161
+121,147,Quimera,Steel,Sit Down,85.0,34.0,1050.0,3.0,Schwarzkopf,La Feria,status.operating,72,Mexico City,Distrito Federal,Mexico,72320
+122,148,Racer,Wooden,Sit Down,,22.0,686.0,0.0,John Miller,Kennywood,status.operating,7,West Mifflin,Pennsylvania,United States,15122
+123,149,Raging Bull,Steel,Sit Down,118.0,62.0,1542.0,0.0,B&M,Six Flags Great America,status.operating,11,Gurnee,Illinois,United States,60031
+124,151,Rampage,Wooden,Sit Down,90.0,37.0,1067.0,0.0,CCI,Alabama Splash Adventure,status.operating,41,Bessemer,Alabama,United States,35022
+125,154,Raptor,Steel,Inverted,92.0,42.0,1155.0,6.0,B&M,Cedar Point,status.operating,1,Sandusky,Ohio,United States,44870
+126,155,Rattler,Wooden,Sit Down,104.0,54.0,1550.0,0.0,RCCA,Six Flags Fiesta Texas,status.retracked,51,San Antonio,Texas,United States,78257
+127,156,Raven,Wooden,Sit Down,77.0,33.0,832.0,0.0,CCI,Holiday World,status.operating,3,Santa Claus,Indiana,United States,47579
+128,157,Ravine Flyer II,Hybrid,Sit Down,91.0,24.0,884.0,0.0,Gravity Group,Waldameer,status.operating,27,Erie,Pennsylvania,United States,16505
+129,158,Renegade,Wooden,Sit Down,,32.0,950.0,0.0,GCI,Valleyfair,status.operating,66,Shakopee,Minnesota,United States,55379
+130,159,Revenge of the Mummy,Steel,Sit Down,65.0,14.0,670.0,0.0,Premier Rides,Universal's Islands of Adventure,status.operating,79,Orlando,Florida,United States,32819
+131,160,Ride of Steel,Steel,Sit Down,112.0,63.0,1645.0,0.0,Intamin,Six Flags Darien Lake,status.operating,88,Corfu,New York,United States,14036
+132,161,Rutschebanan,Wooden,Sit Down,50.0,13.0,720.0,0.0,L.A. Thompson Scenic Railway,Tivoli Gardens,status.operating,68,Copenhagen,Region Hovedstaden,Denmark,1630
+133,162,Screamin' Eagle,Wooden,Sit Down,100.0,34.0,1180.0,0.0,Philadelphia Toboggan Coaster,Six Flags St. Louis,status.operating,14,Eureka,Missouri,United States,63025
+134,163,Shambhala,Steel,Sit Down,134.0,76.0,1564.0,0.0,B&M,PortAventura,status.operating,70,Tarragona,Catalonia,Spain,43840
+135,165,SheiKra,Steel,Floorless,113.0,61.0,972.0,1.0,B&M,Busch Gardens Tampa,status.operating,12,Tampa,Florida,United States,33612
+136,166,Shivering Timbers,Steel,Sit Down,92.0,37.0,1641.0,0.0,CCI,Michigan's Adventure,status.operating,31,Muskegon,Michigan,United States,49445
+137,167,Shock Wave,Steel,Sit Down,96.0,35.0,1097.0,2.0,Schwarzkopf,Six Flags Over Texas,status.operating,25,Arlington,Texas,United States,76011
+138,169,Sky Rocket,Steel,Sit Down,80.0,29.0,640.0,3.0,Premier Rides,Kennywood,status.operating,7,West Mifflin,Pennsylvania,United States,15122
+139,170,Skyrush,Steel,Sit Down,120.0,60.0,1100.0,0.0,Intamin,Hersheypark,status.operating,24,Hershey,Pennsylvania,United States,17033
+140,171,Space Mountain,Steel,Sit Down,52.0,23.0,1052.0,0.0,Dynamic Attractions,Disneyland,status.operating,87,Anaheim,California,United States,92802
+141,175,Steel Curtain,Steel,Sit Down,120.0,67.0,1220.0,9.0,S&S,Kennywood,status.operating,7,West Mifflin,Pennsylvania,United States,15122
+142,176,Steel Dragon 2000,Steel,Sit Down,153.0,97.0,2479.0,0.0,Morgan,Nagashima Spa Land,status.operating,82,Kuwana,Mie,Japan,511-1135
+143,177,Steel Eel,Steel,Sit Down,105.0,46.0,1128.0,0.0,Morgan,SeaWorld San Antonio,status.operating,46,San Antonio,Texas,United States,78251
+144,178,Steel Force,Steel,Sit Down,120.0,61.0,1706.0,0.0,Morgan,Dorney Park,status.operating,62,Allentown,Pennsylvania,United States,18104
+145,179,Steel Vengeance,Hybrid,Sit Down,119.0,62.0,1750.0,4.0,RMC,Cedar Point,status.operating,1,Sandusky,Ohio,United States,44870
+146,181,Storm Chaser,Steel,Sit Down,84.0,31.0,836.0,3.0,RMC,Kentucky Kingdom,status.operating,30,Louisville,Kentucky,United States,40209
+147,182,Storm Runner,Steel,Sit Down,120.0,56.0,806.0,3.0,Intamin,Hersheypark,status.operating,24,Hershey,Pennsylvania,United States,17033
+148,183,Superman: the Ride,Steel,Sit Down,124.0,63.0,1646.0,0.0,Intamin,Six Flags New England,status.operating,13,Agawam,Massachusetts,United States,01001
+149,184,Superman: The Ride,Steel,Sit Down,124.0,63.0,1646.0,0.0,Intamin,Six Flags New England,status.operating,13,Agawam,Massachusetts,United States,01001
+150,185,Superman Krypton Coaster,Steel,Floorless,113.0,51.0,1227.0,6.0,B&M,Six Flags Fiesta Texas,status.operating,51,San Antonio,Texas,United States,78257
+151,186,Superman The Ride,Steel,Sit Down,124.0,63.0,1646.0,0.0,Intamin,Six Flags New England,status.operating,13,Agawam,Massachusetts,United States,01001
+152,187,Superman Ride of Steel,Steel,Sit Down,117.0,60.0,1630.0,0.0,Intamin,Six Flags Great America,status.operating,11,Gurnee,Illinois,United States,60031
+153,188,Switchback,Wooden,Sit Down,66.0,20.0,365.0,,Gravity Group,ZDT's,status.operating,69,Seguin,Texas,United States,78155
+154,190,T Express,Wooden,Sit Down,104.0,56.0,1641.0,0.0,Intamin,Everland,status.operating,58,Seoul,Seoul,South Korea,17023
+155,191,Taron,Steel,Sit Down,117.0,30.0,1320.0,0.0,Intamin,Phantasialand,status.operating,29,Brühl,North Rhine-Westphalia,Germany,50321
+156,192,Tatsu,Steel,Flying,100.0,52.0,1097.0,4.0,B&M,Six Flags Magic Mountain,status.operating,22,Valencia,California,United States,91355
+157,193,Texas Stingray,Wooden,Sit Down,55.0,30.48,1029.9,0.0,GCI,SeaWorld San Antonio,status.operating,46,San Antonio,Texas,United States,78251
+158,194,The Beast,Wooden,Sit Down,104.0,34.0,2243.0,0.0,Charlie Dinn,Kings Island,status.operating,2,Mason,Ohio,United States,45040
+159,195,The Big One,Steel,Sit Down,120.0,65.0,1675.0,0.0,Arrow,Blackpool Pleasure Beach,status.operating,34,Blackpool,England,United Kingdom,FY4 1EZ
+160,196,The Boss,Wooden,Sit Down,106.0,46.0,1540.0,0.0,CCI,Six Flags St. Louis,status.operating,14,Eureka,Missouri,United States,63025
+161,197,The Legend,Wooden,Sit Down,93.0,35.0,1232.0,0.0,CCI,Holiday World,status.operating,3,Santa Claus,Indiana,United States,47579
+162,198,The Raven,Wooden,Sit Down,77.0,33.0,832.0,0.0,CCI,Holiday World,status.operating,3,Santa Claus,Indiana,United States,47579
+163,199,The Swarm,Steel,Wing,,39.0,775.0,4.0,B&M,Thorpe Park,status.operating,84,Chertsey,England,United Kingdom,KT16 8PN
+164,200,The Voyage,Wooden,Sit Down,108.0,49.0,1963.0,0.0,Gravity Group,Holiday World,status.operating,3,Santa Claus,Indiana,United States,47579
+165,201,Thunderbird,Steel,Wing,100.0,43.0,925.0,4.0,B&M,Holiday World,status.operating,3,Santa Claus,Indiana,United States,47579
+166,202,Thunderbird,Wooden,Sit Down,75.0,27.0,850.0,0.0,GCI,PowerPark,status.operating,74,Härmä,Western Finland,Finland,62300
+167,205,Thunderbolt,Steel,Sit Down,89.0,29.0,880.0,0.0,ACE Coaster Classic,Kennywood,status.operating,7,West Mifflin,Pennsylvania,United States,15122
+168,206,Thunderbolt,Wooden,Sit Down,,21.0,873.0,0.0,"Drambour, Joseph",Six Flags New England,status.operating,13,Agawam,Massachusetts,United States,01001
+169,210,Thunderhead,Wooden,Sit Down,89.0,31.0,985.0,0.0,GCI,Dollywood,status.operating,10,Pigeon Forge,Tennessee,United States,37863
+170,211,Timber Terror,Wooden,Sit Down,89.0,26.0,823.0,0.0,CCI,Silverwood,status.operating,60,Athol,Idaho,United States,83801
+171,212,Time Traveler,Steel,Spinning,80.0,30.0,920.0,3.0,Mack,Silver Dollar City,status.operating,23,Branson,Missouri,United States,65616
+172,213,Titan,Steel,Sit Down,137.0,75.0,1619.0,0.0,Giovanola,Six Flags Over Texas,status.operating,25,Arlington,Texas,United States,76011
+173,215,Tonnerre de Zeus,Wooden,Sit Down,84.0,30.0,1233.0,0.0,CCI,Parc Asterix,status.operating,78,Plailly,Oise,France,60128
+174,216,Top Thrill Dragster,Steel,Sit Down,192.0,128.0,853.0,0.0,Intamin,Cedar Point,status.operating,1,Sandusky,Ohio,United States,44870
+175,217,Tremors,Wooden,Sit Down,96.0,31.0,915.0,0.0,CCI,Silverwood,status.operating,60,Athol,Idaho,United States,83801
+176,218,TRON Lightcycle Power Run,Steel,Motorbike,95.0,24.0,970.0,0.0,Vekoma,Shanghai Disneyland,status.operating,83,Pudong,Shanghai,China,201205
+177,219,Troy,Wooden,Sit Down,87.0,32.0,1077.0,0.0,GCI,Toverland,status.operating,38,Sevenum,Limburg,Netherlands,5975
+178,220,Twisted Colossus,Hybrid,Sit Down,92.0,37.0,1520.0,2.0,RMC,Six Flags Magic Mountain,status.operating,22,Valencia,California,United States,91355
+179,221,Twisted Timbers,Hybrid,Sit Down,87.0,34.0,1024.0,3.0,RMC,Kings Dominion,status.operating,20,Doswell,Virginia,United States,23047
+180,225,Twister,Wooden,Sit Down,61.0,15.0,480.0,0.0,Gravity Group,Gröna Lund,status.operating,49,Stockholm,Stockholms,Sweden,115 21
+181,226,Twister,Wooden,Sit Down,83.0,31.0,1189.0,0.0,Philadelphia Toboggan Coaster,Knoebels Amusement Resort,status.operating,5,Elysburg,Pennsylvania,United States,17824
+182,228,Verbolten,Steel,Sit Down,85.0,,864.0,0.0,Zierer,Busch Gardens Williamsburg,status.operating,6,Williamsburg,Virginia,United States,23185
+183,229,Viper,Wooden,Sit Down,81.0,31.0,1054.0,0.0,Philadelphia Toboggan Coaster,Six Flags Great America,status.operating,11,Gurnee,Illinois,United States,60031
+184,231,Volcano,Steel,Inverted,112.0,47.0,840.0,4.0,Intamin,Kings Dominion,status.closed.definitely,20,Doswell,Virginia,United States,23047
+185,232,Volcano: The Blast Coaster,Steel,Inverted,112.0,47.0,840.0,4.0,Intamin,Kings Dominion,status.closed.definitely,20,Doswell,Virginia,United States,23047
+186,233,Voyage,Wooden,Sit Down,108.0,49.0,1963.0,0.0,Gravity Group,Holiday World,status.operating,3,Santa Claus,Indiana,United States,47579
+187,234,White Lightning,Wooden,Sit Down,75.0,23.0,600.0,0.0,GCI,Fun Spot America,status.operating,55,Orlando,Florida,United States,32819
+188,235,Whizzer,Steel,Sit Down,68.0,21.0,945.0,0.0,Schwarzkopf,Six Flags Great America,status.operating,11,Gurnee,Illinois,United States,60031
+189,236,Wicked Cyclone,Hybrid,Sit Down,89.0,33.0,1012.0,3.0,RMC,Six Flags New England,status.operating,13,Agawam,Massachusetts,United States,01001
+190,237,Wild Eagle,Steel,Wing,98.0,64.0,953.0,4.0,B&M,Dollywood,status.operating,10,Pigeon Forge,Tennessee,United States,37863
+191,243,Wild Mouse,Wooden,Sit Down,,,390.0,0.0,na,Blackpool Pleasure Beach,status.closed.definitely,34,Blackpool,England,United Kingdom,FY4 1EZ
+192,244,Wild Mouse,Steel,Sit Down,,14.0,370.0,0.0,Mack,Nagashima Spa Land,status.operating,82,Kuwana,Mie,Japan,511-1135
+193,246,Wild Mouse,Steel,Sit Down,,,,0.0,na,Santa Cruz Beach Boardwalk,status.closed.definitely,36,Santa Cruz,California,United States,95060
+194,253,Wild Mouse,Steel,Sit Down,45.0,15.0,370.0,0.0,Maurer,Lagoon,status.operating,50,Farmington,Utah,United States,84025
+195,254,Wild Mouse,Steel,Sit Down,45.0,14.0,370.0,0.0,Mack,Hersheypark,status.operating,24,Hershey,Pennsylvania,United States,17033
+196,257,Wild Mouse,Steel,Sit Down,45.0,15.0,370.0,0.0,Maurer,Dorney Park,status.operating,62,Allentown,Pennsylvania,United States,18104
+197,258,Wild Mouse,Steel,Sit Down,47.0,13.0,420.0,0.0,Zamperla,Beech Bend,status.operating,57,Bowling Green,Kentucky,United States,42101
+198,259,Wild One,Steel,Sit Down,85.0,30.0,1219.0,0.0,John Miller,Six Flags Great America,status.operating,11,Gurnee,Illinois,United States,60031
+199,260,Wildfire,Steel,Sit Down,106.0,37.0,937.0,5.0,B&M,Silver Dollar City,status.operating,23,Branson,Missouri,United States,65616
+200,261,Wildfire,Wooden,Sit Down,113.0,57.0,1300.0,3.0,RMC,Kolmården,status.operating,35,Kolmården,Östergötlands,Sweden,618 92
+201,262,Wodan,Wooden,Sit Down,100.0,35.0,1050.0,0.0,GCI,Europa-Park,status.operating,17,Rust,Baden-Württemberg,Germany,77977
+202,263,Wodan Timbur Coaster,Wooden,Sit Down,100.0,35.0,1050.0,0.0,GCI,Europa-Park,status.operating,17,Rust,Baden-Württemberg,Germany,77977
+203,264,Wood Coaster,Wooden,Sit Down,99.0,45.0,1468.0,0.0,GCI,Knight Valley,status.operating,71,Shenzhen,Guangdong,China,518085
+204,265,Wooden Warrior,Wooden,Sit Down,56.0,11.0,378.0,0.0,Gravity Group,Quassy Amusement Park,status.operating,43,Middlebury,Connecticut,United States,06762
+205,266,X2,Steel,4th Dimension,122.0,53.0,1100.0,6.0,Arrow,Six Flags Magic Mountain,status.operating,22,Valencia,California,United States,91355
+206,268,X-Flight,Steel,Wing,90.0,37.0,915.0,5.0,B&M,Six Flags Great America,status.operating,11,Gurnee,Illinois,United States,60031
+207,270,Yukon Striker,Steel,Sit Down,130.0,75.0,1105.0,4.0,B&M,Canada's Wonderland,status.operating,15,Vaughan,Ontario,Canada,L6A 1S6
+208,271,Zadra,Hybrid,Sit Down,115.0,63.0,1300.0,3.0,RMC,Energylandia,status.construction,80,Zator,Lesser Poland,Poland,32-640
+209,272,Zippin Pippin,Wooden,Sit Down,68.0,21.0,715.0,,Gravity Group,Bay Beach Amusement Park,status.operating,18,Green Bay,Wisconsin,United States,54302
